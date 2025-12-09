@@ -35,7 +35,6 @@
 7.	Compile that file with C compiler and verify the output.
 
 ## PROGRAM:
-```
 lexical.l
 ~~~
 %{
